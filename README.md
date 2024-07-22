@@ -1,3 +1,3 @@
-# string-first-non-repeating-character-test
+# majority-element-test
 
-This is an example on how you can use the string functions in javascript and find the first non repeating character
+This is an example on how you can use for let of loop and Map Array to get the majority element from an Array
